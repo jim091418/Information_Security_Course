@@ -6,7 +6,10 @@
   - Port
   - Protocol
 * Wireshark Tools
-  - Filter
+  - Wireshark intro
+  - IP Port Protocol
+  - Filter search
+  - Packetage detail mesagge
 * Analyze and sniffer
   - [x] Who Ping Me(IP Filter)
   - [x] What Protocal Ping me(Protocal Filter)
@@ -28,6 +31,8 @@
     - [x] Cyber Range
 ## IDS System
   * What is IDS
+    * Snort intro
+    * Snort vs Suricata
   * How to write Snort rule
     * Rule Format
     * IP and Protocal and Port
@@ -98,10 +103,30 @@
     * SUID Privilige escalation
     - [x] Infosec prep:OSCP LAB
 ## Vulnerable Practice 2
-
-
+  * HACKSUDO:ALIENS
+    * NMAP Tools
+    * DirB Tools
+    * John of Ripper Tools
+    * GTFOBins
+    * flwochart
+    - [x] HACKSUDO:ALIENS LAB
+  * Hacksudo-FOG
+    * php reverse shell
+    * hydra Tools
+    * vuln check
+    * web enum
+    * port enum
+    * Steganography
+    * Caesar cipher
+    - [x] Hacksudo-FOG LAB
+  * SickOS 1.1
+    * Proxy
+    * Reuse password
+    * Default password
+    * ShellShock
+    - [x] SickOS LAB
 ---------------------------------
 
 # Contact Us
-Email: khhuang@gm.ttu.edu.tw
+Email: khhuang@gm.ttu.edu.tw  
 Email: jimtang@gm.ttu.edu.tw
