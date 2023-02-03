@@ -16,4 +16,4 @@
 
 ## Vulnerable Practice 1
 
-## Vulnerable Pratice 2
+## Vulnerable Practice 2
