@@ -1,19 +1,22 @@
 # Information_Security_Course
 
 ## Internet Packet Analyze
-* Internet Packet Rule
-  - IP
-  - Port
-  - Protocol
 * Wireshark Tools
   - Wireshark intro
-  - IP Port Protocol
   - Filter search
-  - Packetage detail mesagge
-* Analyze and sniffer
-  - [x] Who Ping Me(IP Filter)
-  - [x] What Protocal Ping me(Protocal Filter)
-  - [x] What Message inside packege(Packet detail)
+  - [x] wireshark簡單練習-實作
+* Internet Packet Rule
+  - IP Header
+  - [x] IP Header封包分析實作
+  - TCP Header
+  - [x] TCP Header封包分析實作
+  - TCP Three-way-handshake
+  - [x] TCP Three-way-handshake實作分析
+  - DNS
+  - [x] ttucis_dns實作分析
+* Package Analyze
+  - ttu.edu.tw analyze
+  - [x] stucis實作分析
 
 ## Firewall Technology
 
